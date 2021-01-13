@@ -46,11 +46,11 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/*/Binaries/*
+J_A_FPS/Binaries/*
+J_A_FPS/Plugins/*/Binaries/*
 
 # Builds
-Build/*
+J_A_FPS/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
@@ -71,4 +71,4 @@ J_A_FPS/Intermediate/*
 J_A_FPS/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-DerivedDataCache/*
+J_A_FPS/DerivedDataCache/*
