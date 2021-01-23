@@ -70,4 +70,8 @@ J_A_FPS/Intermediate/*
 J_A_FPS/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
+<<<<<<< HEAD
 J_A_FPS/DerivedDataCache/*
+=======
+J_A_FPS/DerivedDataCache/*
+>>>>>>> main
